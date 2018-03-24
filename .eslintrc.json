@@ -4,9 +4,6 @@
     "browser": true,
     "jest":true
   },
-  "ecmaFeatures": {
-    "arrowFunctions": true
-  },
   "rules": {
     "arrow-body-style": "off"
   }
